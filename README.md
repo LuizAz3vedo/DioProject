@@ -18,7 +18,7 @@ pip install cufflinks plotly pandas numpy
 <h2>Como usar:</h2>
 <p>Clone ou faça o download deste repositório.</p>
 
-<p>Abra o notebook analise_de_vendas.ipynb em um ambiente Python compatível, como Jupyter Notebook ou Google Colab.</p>
+<p>Abra o notebook DioProject.ipynb em um ambiente Python compatível, como Jupyter Notebook ou Google Colab.</p>
 
 <p>Execute cada célula do notebook para gerar as visualizações de dados.</p>
 
